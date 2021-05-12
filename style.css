@@ -1,0 +1,16 @@
+body{
+background-color: chartreuse;
+ text-align: center;
+}
+p{
+    font-size: large;
+}
+#me{
+    text-align: left;
+    height: 50; 
+    width: 50;
+    border-radius: 75%;
+}
+#1{
+    text-align: left;
+}
